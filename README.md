@@ -1,4 +1,11 @@
-# LTW_Proj
+# SuperLegitFood
+
+Group project for the Languages and Web Technologies course @ FEUP
+
+## Proposed problem
+Building a website *ala* Uber Eats: users can order dishes and menus, leave reviews on establishments or setup their own restaurant.
+
+## Grade: 17.25/20
 
 ## Features
 
